@@ -84,4 +84,4 @@ jupyter notebook 02_ML_Modeling.ipynb
 
 
 
-**Note**: All code includes fixed random seeds (42) for full reproducibility. Complete technical analysis available in `Technical_Report.md`. 
+**Note**: All code includes fixed random seeds (42) for full reproducibility. Complete technical analysis available in `Technical_Report.pdf`. 
