@@ -1,7 +1,5 @@
 # Store Sales Time Series Forecasting
 
-Machine learning solution for predicting grocery sales at Favorita stores in Ecuador. Developed as part of an AI Engineer technical assessment.
-
 ## 🎯 Project Overview
 
 **Challenge**: Predict sales for product families at store-day level using historical data  
